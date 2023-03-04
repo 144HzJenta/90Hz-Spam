@@ -1,0 +1,10 @@
+C:\Users\samet\source\repos\90Hz Spam\90Hz Spam\bin\Debug\90Hz Spam.exe.config
+C:\Users\samet\source\repos\90Hz Spam\90Hz Spam\bin\Debug\90Hz Spam.exe
+C:\Users\samet\source\repos\90Hz Spam\90Hz Spam\bin\Debug\90Hz Spam.pdb
+C:\Users\samet\source\repos\90Hz Spam\90Hz Spam\obj\Debug\90Hz Spam.csproj.AssemblyReference.cache
+C:\Users\samet\source\repos\90Hz Spam\90Hz Spam\obj\Debug\_90Hz_Spam.Form1.resources
+C:\Users\samet\source\repos\90Hz Spam\90Hz Spam\obj\Debug\_90Hz_Spam.Properties.Resources.resources
+C:\Users\samet\source\repos\90Hz Spam\90Hz Spam\obj\Debug\90Hz Spam.csproj.GenerateResource.cache
+C:\Users\samet\source\repos\90Hz Spam\90Hz Spam\obj\Debug\90Hz Spam.csproj.CoreCompileInputs.cache
+C:\Users\samet\source\repos\90Hz Spam\90Hz Spam\obj\Debug\90Hz Spam.exe
+C:\Users\samet\source\repos\90Hz Spam\90Hz Spam\obj\Debug\90Hz Spam.pdb
